@@ -147,12 +147,12 @@ Los títulos se crean usando el símbolo `#`. Cuantos más `#`, menor es el nive
 #### Imágenes
 
 ```markdown
-![Documentación en VS Code](https://i.imgur.com/J2fDfpc.png)
+![Documentación en VS Code](https://github.com/jisaacre011/Documentacion-con-Markdow-Juan-Reyes/blob/main/Captura%20vs%20Documentacion%20Markdown.png?raw=true)
 ```
 
 **Resultado:**
 
-![Documentación en VS Code](https://i.imgur.com/J2fDfpc.png)
+![Documentación en VS Code](https://github.com/jisaacre011/Documentacion-con-Markdow-Juan-Reyes/blob/main/Captura%20vs%20Documentacion%20Markdown.png?raw=true)
 
 ---
 
@@ -521,6 +521,7 @@ Creo que Git es importante porque hoy casi cualquier persona que programa lo usa
 En lo personal, al principio me parecía complicado por tantos comandos, pero cuando entendí el flujo de trabajo todo tuvo más sentido (Ademas de que en git es donde yo descargo algunos Mods). Me di cuenta de que no hace falta memorizar todo, sino entender la idea general y practicar. Creo que es algo que de verdad me va a servir más adelante si sigo metiéndome en la programación, así que me alegra haberlo aprendido ahora.
 
 ---
+
 
 ## Parte 4 — Reflexión
 
