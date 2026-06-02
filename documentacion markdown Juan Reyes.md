@@ -1,8 +1,6 @@
 # Documentación Profesional con Markdown — Juan Reyes
 
-**Nombre:** Juan Isaac  
-**Profesor:** Victor Recio  
-**Materia:** ADM. BASE DE DATOS  
+![Portada](https://github.com/jisaacre011/Documentacion-con-Markdow-Juan-Reyes/blob/main/Portada%20.png?raw=true)
 
 ---
 
@@ -258,25 +256,17 @@ A continuación se presenta una comparación entre Markdown y tres herramientas 
 
 ### Comparación
 
-Después de investigar estas herramientas me di cuenta de que cada una sirve para cosas distintas, así que voy a comparar Markdown con Notion, Obsidian y Google Docs según varios puntos.
+Investigando estas herramientas me di cuenta de que cada una sirve para algo distinto, así que voy a comparar Markdown con Notion, Obsidian y Google Docs por puntos.
 
-En cuanto a facilidad de uso, Google Docs es el más sencillo de todos porque casi cualquier persona ya lo ha usado y funciona con botones, igual que Word. Notion también es fácil porque tiene una interfaz visual donde solo arrastras bloques. Markdown y Obsidian son un poco más complicados al principio porque tienes que aprender la sintaxis (los símbolos como `#` o `*`), aunque cuando le agarras la onda se vuelve rápido.
+En facilidad de uso y curva de aprendizaje, Google Docs es el más sencillo porque casi todos ya lo han usado y funciona con botones igual que Word; Notion también es fácil con su interfaz de bloques. Markdown y Obsidian cuestan un poco más al inicio porque hay que aprender la sintaxis, pero cuando le agarras la onda se vuelve rápido.
 
-Sobre la colaboración, aquí ganan claramente Google Docs y Notion, porque varias personas pueden editar el mismo documento al mismo tiempo y ver los cambios al instante. Eso es perfecto para trabajos en equipo. Markdown por sí solo no tiene eso; para trabajar varios hay que usar Git, que es más complicado. Obsidian tampoco es muy bueno para colaborar porque está pensado más para uso personal.
+Para colaborar ganan Google Docs y Notion, porque varias personas editan el mismo documento a la vez, perfecto para trabajos en equipo. Markdown solo no tiene eso (hay que usar Git, que es más complicado) y Obsidian está más pensado para uso personal.
 
-En la organización, Obsidian es el que más me llamó la atención porque conecta tus notas entre sí y arma como un mapa de todo lo que escribiste, lo cual es genial para estudiar. Notion también organiza muy bien con sus bases de datos y tableros. Google Docs se organiza con carpetas en Drive y Markdown depende de que tú mismo ordenes tus archivos y enlaces a mano.
+En organización, Obsidian me llamó la atención porque conecta tus notas como un mapa, genial para estudiar; Notion también ordena muy bien con bases de datos y tableros, mientras que Markdown depende de que tú mismo acomodes los archivos.
 
-Hablando de compatibilidad, Markdown es el más universal porque al ser texto plano lo puedes abrir en cualquier programa o dispositivo sin instalar nada. Obsidian tiene la ventaja de que guarda tus notas como archivos `.md` normales en tu computadora, así que no quedas atrapado. Notion y Google Docs son más cerrados porque tus documentos viven dentro de sus plataformas.
+En compatibilidad Markdown gana porque al ser texto plano lo abres en cualquier lado sin instalar nada, y Obsidian guarda tus notas como archivos `.md` normales, así que no quedas atrapado; Notion y Google Docs son más cerrados. Para exportar están bastante parejos, todos sacan PDF y otros formatos.
 
-Para exportar, todos dejan sacar el contenido en distintos formatos. Markdown se puede convertir a PDF, HTML o Word usando herramientas como Pandoc. Notion deja exportar a PDF, Markdown y otros formatos, Obsidian a PDF y Markdown, y Google Docs a PDF, Word y varios más. En esto están bastante parejos.
-
-En el uso profesional, Markdown es muy usado por programadores y para documentación de proyectos. Notion se usa mucho en empresas y startups para organizarse. Google Docs es el típico en oficinas y escuelas, y Obsidian se ve más en gente que investiga o toma muchas notas.
-
-La curva de aprendizaje va de la mano con la facilidad de uso: Google Docs casi no tiene, Notion es bajita, y Markdown y Obsidian piden un poco más de esfuerzo al inicio.
-
-Por último, la dependencia de internet también es importante. Markdown y Obsidian funcionan totalmente sin conexión porque los archivos están en tu propia computadora. Google Docs necesita internet casi siempre y Notion funciona mejor conectado aunque tiene un modo offline limitado.
-
-En resumen, yo creo que no hay una mejor que las demás, sino que depende de lo que necesites. Si quieres algo que dure y funcione en cualquier lado, Markdown es lo mejor. Si vas a trabajar en equipo, Google Docs o Notion. Y si lo tuyo es organizar muchas notas personales, Obsidian es buenísimo, además de que por dentro usa Markdown.
+En uso profesional Markdown es típico entre programadores, Notion en empresas y startups, Google Docs en oficinas y escuelas, y Obsidian en gente que toma muchas notas. Y sobre internet, Markdown y Obsidian funcionan sin conexión, mientras Google Docs y Notion dependen más de estar conectados.
 
 ---
 
@@ -563,3 +553,5 @@ La desventaja es que estas plataformas crean **dependencia**: si la empresa cier
 ### ¿Crees que Markdown seguirá siendo relevante en el futuro? ¿Por qué?
 
 Yo creo que sí va a seguir siendo útil por bastante tiempo. Markdown ya tiene más de 20 años y sigue usándose, lo cual dice mucho en algo tan cambiante como la tecnología. Como al final es solo texto normal, no se va a volver viejo ni va a dejar de funcionar: mientras una computadora pueda leer texto, va a servir. Las apps cambian, salen unas nuevas y otras desaparecen, pero el formato sigue igual. Y ahora con las inteligencias artificiales se usa todavía más, porque muchas escriben sus respuestas en Markdown, así que creo que en vez de desaparecer va a seguir usándose cada vez más.
+
+![Reflexión sobre Markdown](https://github.com/jisaacre011/Documentacion-con-Markdow-Juan-Reyes/blob/main/Imagen%20Reflexion%20Markdown.jpg?raw=true)
