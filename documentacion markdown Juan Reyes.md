@@ -275,10 +275,7 @@ En uso profesional Markdown es típico entre programadores, Notion en empresas y
 ---
 
 # Guía de Comandos Git
-### Documentación técnica para principiantes y desarrolladores en formación
-
-**Versión:** 1.0  
-**Autor:** Juan Reyes  **Última actualización:** Mayo 2026  
+### Documentación
 
 ---
 
@@ -308,14 +305,14 @@ Esta guía cubre los comandos más importantes que necesitas para trabajar con G
 
 ## Requisitos previos
 
-Antes de comenzar, asegúrate de tener:
+Nos aseguramos de tener:
 
-- [ ] Sistema operativo: Windows, macOS o Linux
-- [ ] Git instalado ([descargar aquí](https://git-scm.com/downloads))
-- [ ] Una terminal o línea de comandos disponible
-- [ ] (Es Opcional pero seria lo mejor) Una cuenta en [GitHub](https://github.com) o [GitLab](https://gitlab.com)
+- Sistema operativo: Windows, macOS o Linux
+- Git instalado ([descargar aquí](https://git-scm.com/downloads))
+- Una terminal o línea de comandos disponible
+- (Es Opcional pero seria lo mejor) Una cuenta en [GitHub](https://github.com) o [GitLab](https://gitlab.com)
 
-Para verificar que Git está instalado correctamente, ejecuta:
+Para verificar que Git está instalado correctamente, se ejecuta:
 
 ```bash
 git --version
@@ -326,7 +323,7 @@ git --version
 
 ## Configuración inicial
 
-Antes de hacer tu primer commit, configura tu identidad:
+Antes de hacer el primer commit, se configura la identidad:
 
 ```bash
 # Configurar nombre de usuario
