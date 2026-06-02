@@ -1,6 +1,6 @@
 # Documentación Profesional con Markdown — Juan Reyes
 
-![Portada](https://github.com/jisaacre011/Documentacion-con-Markdow-Juan-Reyes/blob/main/Portada%20.png?raw=true)
+![Portada](https://github.com/jisaacre011/Documentacion-con-Markdow-Juan-Reyes/blob/main/portada%20.png?raw=true)
 
 ---
 
@@ -551,4 +551,4 @@ La desventaja es que estas plataformas crean **dependencia**: si la empresa cier
 
 Yo creo que sí va a seguir siendo útil por bastante tiempo. Markdown ya tiene más de 20 años y sigue usándose, lo cual dice mucho en algo tan cambiante como la tecnología. Como al final es solo texto normal, no se va a volver viejo ni va a dejar de funcionar: mientras una computadora pueda leer texto, va a servir. Las apps cambian, salen unas nuevas y otras desaparecen, pero el formato sigue igual. Y ahora con las inteligencias artificiales se usa todavía más, porque muchas escriben sus respuestas en Markdown, así que creo que en vez de desaparecer va a seguir usándose cada vez más.
 
-![Reflexión sobre Markdown](https://github.com/jisaacre011/Documentacion-con-Markdow-Juan-Reyes/blob/main/Imagen%20Reflexion%20Markdown.jpg?raw=true)
+![Reflexión sobre Markdown](https://github.com/jisaacre011/Documentacion-con-Markdow-Juan-Reyes/blob/main/imagen%20Reflexion%20Markdown.jpg?raw=true)
